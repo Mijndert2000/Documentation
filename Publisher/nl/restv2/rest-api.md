@@ -53,7 +53,7 @@ In de onderstaande tabel vind je een methode om account informatie op te vragen.
 ## Databases & Collecties
 
 Je kunt je databases en collecties bekijken en onderhouden met API calls.
-In de onderstaande tabel vindt je alle calls gerelateerd aan databases,
+In de onderstaande tabel vind je alle calls gerelateerd aan databases,
 collecties en hun eigenschappen.
 
 ### Databases
@@ -170,7 +170,7 @@ condities in de tabel hieronder vinden.
 ## Profielen & Subprofielen
 
 Profielen en subprofielen kunnen gebruikt worden om entiteiten in je database
-op te slaan, zoals je klanten of orders. Je vindt de relevante API calls
+op te slaan, zoals je klanten of orders. Je vindtde relevante API calls
 in de onderstaande tabel.
 
 ### Profielen
